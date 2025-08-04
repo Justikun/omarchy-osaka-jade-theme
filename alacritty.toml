@@ -22,8 +22,8 @@ yellow  = "#D8C14C"  # Process_mid
 blue    = "#ACD4CF"  # Temp_start, brighter for bold dirs
 magenta = "#75bbb3"  # Download_start
 cyan    = "#8CD3CB"  # Upload_mid
-white   = "#9EEBB3"  # Title
+white   = "#9eebb3"  # Title
 
 [colors.cursor]
-text   = "#D7C995"
+text   = "#000000"
 cursor = "#D7C995"
