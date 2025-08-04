@@ -1,11 +1,11 @@
 return {
 	{
-		"Justikun/osaka-jade.nvim",
+		"Justikun/osaka-jade",
 	},
 	{
 		"LazyVim/LazyVim",
 		opts = {
-			colorscheme = "osaka-jade"",
+			colorscheme = "osaka-jade",
 		},
 	},
 }
