@@ -1,4 +1,4 @@
-# Osaka Jade Dark Theme for Omarchy
+# Osaka Jade Theme for Omarchy
 
 To install: 
 ```bash
