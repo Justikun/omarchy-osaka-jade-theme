@@ -1,9 +1,4 @@
-# All graphs and meters can be gradients
-# For single color graphs leave "mid" and "end" variable empty.
-# Use "start" and "end" variables for two color gradient
-# Use "start", "mid" and "end" for three color gradient
-
-# Main background, empty for terminal default, need to be empty if you want transparent background
+# Main background
 theme[main_bg]="#111c18"
 
 # Main text color
@@ -24,10 +19,10 @@ theme[selected_fg]="#DEB266"
 # Color of inactive/disabled text
 theme[inactive_fg]="#32473B"  
 
-# Color of text appearing on top of graphs, i.e uptime and current network graph scaling
+# Color of text appearing on top of graphs
 theme[graph_text]="#E6D8BA"
 
-# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+# Misc colors for processes box
 theme[proc_misc]="#E6D8BA"
 
 # Cpu box outline color
