@@ -26,5 +26,5 @@ omarchy-theme-install https://github.com/Justikun/omarchy-osaka-jade-theme.git
 
 ## Preview
 
-![preview 2 image](https://i.imgur.com/uawPwfV.jpeg)
+![preview 2 image](preview.png)
 ![preview image](https://i.imgur.com/Qk5DHHw.jpeg)
