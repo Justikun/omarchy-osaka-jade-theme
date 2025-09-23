@@ -1,7 +1,10 @@
 # Osaka Jade - Theme for Omarchy
 
-Osaka Jade is now a default theme on [Omarchy](https://github.com/basecamp/omarchy).
+Osaka Jade is now a default theme on [Omarchy](https://omarchy.org).
 You do not need to install Osaka Jade, you can set it using the Omarchy menu.
+
+The [Omarchy Git Hub](https://github.com/basecamp/omarchy) will have the latest updates.
+
 
 ## Set Theme to Osaka Jade (Recommended)
 1. Click `SUPER + ALT + SPACE`
